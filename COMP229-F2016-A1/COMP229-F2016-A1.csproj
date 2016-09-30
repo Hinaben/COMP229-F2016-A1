@@ -67,7 +67,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\images\logo.jpg" />
+    <Content Include="Assets\images\logo_a1.jpg" />
     <Content Include="Assets\images\profile_pic.JPG" />
+    <Content Include="Assets\images\project.jpg" />
+    <Content Include="Assets\images\services.jpg" />
+    <Content Include="Assets\images\banner.jpg" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
     <None Include="Web.Debug.config">
