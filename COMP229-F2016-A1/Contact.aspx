@@ -2,7 +2,16 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="conatainer">
-        <div class="container">
+        <div class="row">
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
+        <!-- <div class="container">
+
             <div class="well well-sm quick-contact">
                 <div class="row">
                     <div class="col-md-12">
@@ -35,9 +44,24 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="row">
-            <div class="col-md-offset-4 col-md-6">
+
+            <div class="col-md-4">
+                <div class="quick-contact">
+                <h1 class="text-center">Contact Info</h1>
+                <h4 class="text-center">hpatel@my.centennialcollege.ca</h4>
+                <h4 class="text-center">+1647-407-2796</h4>
+
+                
+                <a href="http://www.jquery2dotnet.com" class="text-center"><i class="fa fa-skype"></i>  skypeuser    </a></br>
+                <a href="http://www.jquery2dotnet.com" class="text-center"><i class="fa fa-google-plus"></i>  googleplus</a>
+                </div>
+
+
+            </div>
+
+            <div class="col-md-6">
                 <h1>Contact Me</h1>
 
                 <div class="form-group">
@@ -64,7 +88,8 @@
                 <asp:Button ID="SendButton" CssClass="btn btn-primary btn-lg" runat="server" Text="Send" OnClick="SendButton_Click" />
 
             </div>
-        </div>
+            
+    </div>
     </div>
 
 </asp:Content>

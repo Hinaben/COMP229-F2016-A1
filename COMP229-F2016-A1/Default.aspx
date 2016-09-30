@@ -7,6 +7,14 @@
 
     <div class="container">
         <div class="row">
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
+        <div class="row">
             <div class="jumbotron">
                 <img style="margin-top: -7px; background-color: #e3f2fd;" src="Assets\images\banner.jpg">
             </div>
@@ -15,7 +23,8 @@
 
 
             <div class="col-md-4">
-                <img style="width: 150px; height: 110px; margin-top: -7px; background-color: #e3f2fd;" src="Assets\images\logo_a1.jpg">
+                <a href="Default.aspx">
+                <img style="width: 150px; height: 110px; margin-top: -7px; background-color: #e3f2fd;" src="Assets\images\logo_a1.jpg"></a>
                 <h4>Hina Patel</h4>
             </div>
             <div class="col-md-4">
