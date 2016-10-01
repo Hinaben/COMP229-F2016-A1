@@ -10,6 +10,6 @@
 namespace COMP229_F2016_A1 {
     
     
-    public partial class About {
+    public partial class Default {
     }
 }

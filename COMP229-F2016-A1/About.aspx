@@ -1,9 +1,6 @@
-﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="COMP229_F2016_A1.Default" %>
+﻿<%@ Page Title="about" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="COMP229_F2016_A1.Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-
-
-
 
     <div class="container">
         <div class="row">
@@ -23,31 +20,23 @@
 
                 <div class="col-md-offset-4">
                     <div class="well well-sm">
-                        <h3 class="text-center">Mission Statement</h3>
+                        <h3 class="text-left">Mission Statement</h3>
                         <h4 class="text-left">To become a skilled and experienced software solution professional with extensive knowledge of all the areas of SDLC including requirements gathering, design, development and testing. </h4>
-
                     </div>
-
 
                 </div>
                 <div class="col-md-offset-4">
                     <div class="well well-sm">
-                        <h4 class="text-left">Solid understanding of Software Modeling and Database Design techniques.
-
-                        </h4>
-
+                        <h4 class="text-left">Solid understanding of Software Modeling and Database Design techniques.</h4>
                     </div>
+                    
                     <div class="well well-sm">
-                        <h4 class="text-left">Strong knowledge and understanding of Software Development Methodologies and Project Management. 
-
-                        </h4>
+                        <h4 class="text-left">Strong knowledge and understanding of Software Development Methodologies and Project Management.</h4>
                     </div>
+                    
                     <div class="well well-sm">
-                        <h4 class="text-left">Excellent problem solving skills including highly developed analytical and logical reasoning skills
-
-                        </h4>
+                        <h4 class="text-left">Excellent problem solving skills including highly developed analytical and logical reasoning skills.</h4>
                     </div>
-
 
                 </div>
 

@@ -17,7 +17,6 @@ namespace COMP229_F2016_A1
 
         protected void SendButton_Click(object sender, EventArgs e)
         {
-            
         }
     }
 }

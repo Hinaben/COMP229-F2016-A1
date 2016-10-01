@@ -71,8 +71,12 @@
     <Content Include="Assets\images\logo_a1_blue.jpg" />
     <Content Include="Assets\images\profile_pic.JPG" />
     <Content Include="Assets\images\project.jpg" />
+    <Content Include="Assets\images\project_1_a1.jpg" />
+    <Content Include="Assets\images\project_2_a1.jpg" />
+    <Content Include="Assets\images\project_3_a1.jpg" />
     <Content Include="Assets\images\services.jpg" />
     <Content Include="Assets\images\banner.jpg" />
+    <Content Include="Assets\images\services_a1.jpg" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\quick-contact.css" />
     <Content Include="packages.config" />
